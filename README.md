@@ -4,11 +4,11 @@
 
 Users can search for books and save book searches to a saved books list. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and GraphQL API built with Apollo Server.
 
-Click [here]() to view the deployed application.
+Click [here](https://book-search-engine-siera.herokuapp.com/) to view the deployed application.
 
 ## Demo
 
-![GIF]()
+![GIF](./Google%20Book%20Search.gif)
 
 ## Installation
 
